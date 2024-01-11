@@ -1,0 +1,19 @@
+{
+  "name": "brainwave-frontend",
+  "version": "1.0.0",
+  "description": "front end to brainwave project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jen000/BrainWave-FrontEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jen000/BrainWave-FrontEnd/issues"
+  },
+  "homepage": "https://github.com/Jen000/BrainWave-FrontEnd#readme"
+}
